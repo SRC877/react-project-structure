@@ -1,4 +1,4 @@
-# React Hooks + Redux CRUD example with Axios & Web API
+# React project structure example
 ### Set port
 .env
 ```
